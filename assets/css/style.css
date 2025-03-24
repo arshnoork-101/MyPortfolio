@@ -187,6 +187,7 @@ section {
   align-items: center;
   padding: 10px;
   padding-left: 320px;
+  background-image: url("../img/bg.jpg");
 }
 
 #hero::before {
@@ -300,6 +301,16 @@ section {
     position: relative;
     flex-direction: column;
     justify-content: flex-start;
+  }
+
+  .project-links a {
+    margin-bottom: 5px;
+  }
+
+  .project-links {
+    margin-left: 10px;
+    margin-bottom: 5px; /* Remove unnecessary bottom margin */
+    display: inline;
   }
 
   .project-links a {
