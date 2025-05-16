@@ -92,14 +92,14 @@ section {
   padding: 40px 0;
 }
 
-/* Projects Section */
-#projects {
+/* Projects and Experiences Section */
+#projects #experiences{
   background-color: #121212;
   color: #fff;
   padding: 40px 20px;
 }
 
-#projects h2 {
+#projects #experiences h2 {
   text-align: start;
   font-size: 32px;
   margin-bottom: 20px;
